@@ -1,0 +1,5 @@
+# Ignore raw source data and large final data exports
+data/source_data/
+data/final/
+netflix_titles.csv
+netflix_catalog.csv
